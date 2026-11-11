@@ -1,0 +1,501 @@
+ClienteID,Nombre,Apellido,Email,Ciudad,TipoCliente,FechaRegistro
+1,Francisco,López,francisco.lópez1@email.com,Madrid,Premium,2022-05-06
+2,Ana,Martínez,ana.martínez2@email.com,Barcelona,Regular,2022-10-07
+3,María,Torres,maría.torres3@email.com,Zaragoza,Regular,2022-02-17
+4,Ana,González,ana.gonzález4@email.com,Palma,Regular,2022-10-15
+5,Ana,Ramírez,ana.ramírez5@email.com,Zaragoza,Regular,2022-10-29
+6,Pedro,García,pedro.garcía6@email.com,Valencia,Regular,2022-06-24
+7,Pedro,Martínez,pedro.martínez7@email.com,Sevilla,VIP,2022-06-22
+8,María,López,maría.lópez8@email.com,Zaragoza,Regular,2022-06-26
+9,Isabel,Rodríguez,isabel.rodríguez9@email.com,Madrid,Premium,2022-10-02
+10,María,Pérez,maría.pérez10@email.com,Barcelona,Regular,2022-11-18
+11,Isabel,Fernández,isabel.fernández11@email.com,Las Palmas,Regular,2022-02-05
+12,Juan,González,juan.gonzález12@email.com,Bilbao,VIP,2022-04-30
+13,María,Pérez,maría.pérez13@email.com,Bilbao,Regular,2022-07-06
+14,Carlos,Fernández,carlos.fernández14@email.com,Málaga,Regular,2022-05-17
+15,Carmen,López,carmen.lópez15@email.com,Las Palmas,Regular,2022-10-01
+16,Carmen,González,carmen.gonzález16@email.com,Valencia,Regular,2022-05-19
+17,Francisco,Ramírez,francisco.ramírez17@email.com,Sevilla,Regular,2022-01-29
+18,Ana,García,ana.garcía18@email.com,Málaga,Regular,2022-02-03
+19,Ana,Torres,ana.torres19@email.com,Málaga,Regular,2022-09-13
+20,Miguel,Sánchez,miguel.sánchez20@email.com,Valencia,Regular,2022-05-07
+21,Carmen,Ramírez,carmen.ramírez21@email.com,Palma,Regular,2022-10-27
+22,Miguel,Torres,miguel.torres22@email.com,Zaragoza,Regular,2022-03-12
+23,Antonio,Sánchez,antonio.sánchez23@email.com,Barcelona,Premium,2022-02-26
+24,Carlos,Martínez,carlos.martínez24@email.com,Zaragoza,Regular,2022-07-17
+25,Miguel,Torres,miguel.torres25@email.com,Murcia,Regular,2022-10-11
+26,Juan,López,juan.lópez26@email.com,Palma,Premium,2022-11-25
+27,Laura,López,laura.lópez27@email.com,Bilbao,Regular,2022-08-21
+28,Juan,Rodríguez,juan.rodríguez28@email.com,Palma,Premium,2022-09-17
+29,María,Rodríguez,maría.rodríguez29@email.com,Palma,Regular,2022-03-20
+30,Laura,Martínez,laura.martínez30@email.com,Palma,VIP,2022-09-29
+31,Juan,Torres,juan.torres31@email.com,Málaga,Regular,2022-02-27
+32,Laura,Rodríguez,laura.rodríguez32@email.com,Sevilla,Regular,2022-10-18
+33,María,López,maría.lópez33@email.com,Murcia,Premium,2022-09-30
+34,Carlos,Martínez,carlos.martínez34@email.com,Murcia,Premium,2022-03-26
+35,Pedro,Ramírez,pedro.ramírez35@email.com,Las Palmas,Regular,2022-04-19
+36,Antonio,González,antonio.gonzález36@email.com,Bilbao,Regular,2022-12-10
+37,Francisco,Fernández,francisco.fernández37@email.com,Murcia,Premium,2022-08-20
+38,María,González,maría.gonzález38@email.com,Sevilla,Regular,2022-01-11
+39,Isabel,Ramírez,isabel.ramírez39@email.com,Sevilla,Regular,2022-01-04
+40,María,García,maría.garcía40@email.com,Sevilla,Regular,2022-01-17
+41,Laura,López,laura.lópez41@email.com,Palma,Regular,2022-12-09
+42,Sofía,González,sofía.gonzález42@email.com,Palma,Regular,2022-10-20
+43,Isabel,Sánchez,isabel.sánchez43@email.com,Sevilla,Premium,2022-07-28
+44,Ana,López,ana.lópez44@email.com,Barcelona,Regular,2022-07-01
+45,Miguel,Pérez,miguel.pérez45@email.com,Murcia,Premium,2022-01-28
+46,Francisco,López,francisco.lópez46@email.com,Madrid,Regular,2022-06-23
+47,María,González,maría.gonzález47@email.com,Sevilla,Regular,2022-08-18
+48,Carlos,Pérez,carlos.pérez48@email.com,Valencia,Regular,2022-05-08
+49,María,Sánchez,maría.sánchez49@email.com,Palma,Regular,2022-11-30
+50,Antonio,García,antonio.garcía50@email.com,Barcelona,Premium,2022-05-02
+51,Carlos,Pérez,carlos.pérez51@email.com,Murcia,Regular,2022-07-25
+52,Juan,Martínez,juan.martínez52@email.com,Zaragoza,Regular,2022-07-19
+53,Pedro,Sánchez,pedro.sánchez53@email.com,Bilbao,Regular,2022-10-12
+54,Francisco,Sánchez,francisco.sánchez54@email.com,Valencia,Regular,2022-04-22
+55,Juan,Torres,juan.torres55@email.com,Palma,Regular,2022-06-10
+56,Juan,García,juan.garcía56@email.com,Las Palmas,Regular,2022-09-29
+57,Carlos,García,carlos.garcía57@email.com,Palma,Regular,2022-04-06
+58,María,Torres,maría.torres58@email.com,Barcelona,Regular,2022-05-01
+59,Miguel,López,miguel.lópez59@email.com,Las Palmas,Regular,2022-11-01
+60,Juan,Torres,juan.torres60@email.com,Barcelona,Regular,2022-10-26
+61,Isabel,Ramírez,isabel.ramírez61@email.com,Málaga,Premium,2022-04-15
+62,Francisco,Fernández,francisco.fernández62@email.com,Sevilla,Regular,2022-03-09
+63,Francisco,Rodríguez,francisco.rodríguez63@email.com,Murcia,Regular,2022-02-07
+64,Juan,Sánchez,juan.sánchez64@email.com,Las Palmas,VIP,2022-02-21
+65,María,Ramírez,maría.ramírez65@email.com,Sevilla,Regular,2022-03-09
+66,Laura,López,laura.lópez66@email.com,Sevilla,Regular,2022-03-22
+67,Sofía,Ramírez,sofía.ramírez67@email.com,Bilbao,Regular,2022-12-01
+68,Antonio,García,antonio.garcía68@email.com,Palma,Regular,2022-12-06
+69,María,Martínez,maría.martínez69@email.com,Bilbao,Regular,2022-02-24
+70,Carmen,Ramírez,carmen.ramírez70@email.com,Valencia,Regular,2022-11-06
+71,Ana,Fernández,ana.fernández71@email.com,Sevilla,Regular,2022-05-16
+72,Antonio,Sánchez,antonio.sánchez72@email.com,Bilbao,Premium,2022-01-27
+73,María,Pérez,maría.pérez73@email.com,Bilbao,Regular,2022-06-20
+74,Carlos,Rodríguez,carlos.rodríguez74@email.com,Valencia,Premium,2022-10-10
+75,Carmen,Pérez,carmen.pérez75@email.com,Palma,Regular,2022-02-08
+76,Carmen,Martínez,carmen.martínez76@email.com,Palma,Regular,2022-07-09
+77,Isabel,Ramírez,isabel.ramírez77@email.com,Valencia,Regular,2022-01-22
+78,Pedro,Fernández,pedro.fernández78@email.com,Madrid,Premium,2022-04-18
+79,Francisco,González,francisco.gonzález79@email.com,Barcelona,Regular,2022-10-14
+80,Miguel,Torres,miguel.torres80@email.com,Valencia,Premium,2022-05-02
+81,Carlos,Martínez,carlos.martínez81@email.com,Zaragoza,Regular,2022-06-20
+82,Miguel,González,miguel.gonzález82@email.com,Bilbao,Regular,2022-12-26
+83,María,Pérez,maría.pérez83@email.com,Madrid,Premium,2022-04-24
+84,Ana,Sánchez,ana.sánchez84@email.com,Málaga,Regular,2022-04-27
+85,Ana,García,ana.garcía85@email.com,Sevilla,Regular,2022-05-23
+86,María,Rodríguez,maría.rodríguez86@email.com,Málaga,Regular,2022-07-24
+87,Francisco,Ramírez,francisco.ramírez87@email.com,Málaga,Premium,2022-03-01
+88,Pedro,Martínez,pedro.martínez88@email.com,Las Palmas,VIP,2022-05-16
+89,Juan,López,juan.lópez89@email.com,Las Palmas,Regular,2022-06-10
+90,Miguel,Torres,miguel.torres90@email.com,Palma,Regular,2022-10-23
+91,Ana,Rodríguez,ana.rodríguez91@email.com,Madrid,Premium,2022-01-01
+92,Antonio,Ramírez,antonio.ramírez92@email.com,Sevilla,Regular,2022-02-05
+93,Francisco,Fernández,francisco.fernández93@email.com,Las Palmas,Regular,2022-03-05
+94,Carmen,Rodríguez,carmen.rodríguez94@email.com,Palma,Regular,2022-07-29
+95,Laura,Pérez,laura.pérez95@email.com,Bilbao,Regular,2022-04-09
+96,Miguel,Pérez,miguel.pérez96@email.com,Valencia,Regular,2022-06-04
+97,Miguel,Ramírez,miguel.ramírez97@email.com,Madrid,Regular,2022-04-18
+98,Miguel,Torres,miguel.torres98@email.com,Las Palmas,Regular,2022-08-27
+99,Sofía,Sánchez,sofía.sánchez99@email.com,Sevilla,Regular,2022-03-28
+100,Francisco,López,francisco.lópez100@email.com,Bilbao,Regular,2022-11-21
+101,Isabel,Fernández,isabel.fernández101@email.com,Barcelona,Premium,2022-05-01
+102,Francisco,Rodríguez,francisco.rodríguez102@email.com,Sevilla,Premium,2022-03-17
+103,Juan,García,juan.garcía103@email.com,Sevilla,VIP,2022-11-09
+104,María,Sánchez,maría.sánchez104@email.com,Zaragoza,Premium,2022-10-22
+105,Ana,Pérez,ana.pérez105@email.com,Murcia,Regular,2022-03-17
+106,Francisco,García,francisco.garcía106@email.com,Barcelona,Premium,2022-04-23
+107,Carlos,Ramírez,carlos.ramírez107@email.com,Murcia,Regular,2022-05-08
+108,María,Sánchez,maría.sánchez108@email.com,Valencia,Premium,2022-12-08
+109,Antonio,Ramírez,antonio.ramírez109@email.com,Las Palmas,Regular,2022-08-15
+110,Isabel,Ramírez,isabel.ramírez110@email.com,Zaragoza,Premium,2022-10-08
+111,Sofía,Martínez,sofía.martínez111@email.com,Murcia,Regular,2022-05-07
+112,Francisco,Rodríguez,francisco.rodríguez112@email.com,Palma,Regular,2022-05-03
+113,Pedro,Sánchez,pedro.sánchez113@email.com,Barcelona,Premium,2022-05-01
+114,Pedro,Fernández,pedro.fernández114@email.com,Málaga,Premium,2022-02-11
+115,Carlos,Martínez,carlos.martínez115@email.com,Sevilla,Regular,2022-03-20
+116,Carmen,González,carmen.gonzález116@email.com,Barcelona,Regular,2022-06-19
+117,Antonio,Sánchez,antonio.sánchez117@email.com,Zaragoza,Regular,2022-08-04
+118,Miguel,Torres,miguel.torres118@email.com,Madrid,Premium,2022-10-22
+119,Miguel,Sánchez,miguel.sánchez119@email.com,Madrid,Premium,2022-06-02
+120,Miguel,Pérez,miguel.pérez120@email.com,Palma,Premium,2022-10-07
+121,Isabel,González,isabel.gonzález121@email.com,Murcia,Regular,2022-08-12
+122,Sofía,García,sofía.garcía122@email.com,Zaragoza,Regular,2022-12-14
+123,Miguel,Martínez,miguel.martínez123@email.com,Murcia,Premium,2022-11-15
+124,Antonio,García,antonio.garcía124@email.com,Zaragoza,Regular,2022-12-06
+125,Juan,López,juan.lópez125@email.com,Zaragoza,Regular,2022-08-25
+126,Carlos,García,carlos.garcía126@email.com,Bilbao,Regular,2022-04-19
+127,Sofía,Fernández,sofía.fernández127@email.com,Málaga,Premium,2022-07-14
+128,Pedro,Pérez,pedro.pérez128@email.com,Bilbao,Premium,2022-08-29
+129,Juan,Ramírez,juan.ramírez129@email.com,Madrid,VIP,2022-06-29
+130,Ana,López,ana.lópez130@email.com,Madrid,Premium,2022-05-07
+131,Ana,García,ana.garcía131@email.com,Las Palmas,Regular,2022-03-06
+132,Sofía,López,sofía.lópez132@email.com,Las Palmas,Premium,2022-08-27
+133,Carmen,Rodríguez,carmen.rodríguez133@email.com,Málaga,Regular,2022-11-07
+134,Carmen,López,carmen.lópez134@email.com,Valencia,VIP,2022-02-25
+135,Isabel,García,isabel.garcía135@email.com,Bilbao,Regular,2022-07-12
+136,Miguel,González,miguel.gonzález136@email.com,Barcelona,Regular,2022-11-18
+137,Ana,López,ana.lópez137@email.com,Bilbao,Premium,2022-11-04
+138,María,Torres,maría.torres138@email.com,Madrid,Regular,2022-08-08
+139,Francisco,Fernández,francisco.fernández139@email.com,Barcelona,Regular,2022-06-24
+140,Juan,Pérez,juan.pérez140@email.com,Murcia,Regular,2022-07-05
+141,Francisco,Sánchez,francisco.sánchez141@email.com,Valencia,Regular,2022-09-25
+142,Francisco,Rodríguez,francisco.rodríguez142@email.com,Las Palmas,Premium,2022-10-03
+143,Sofía,Sánchez,sofía.sánchez143@email.com,Zaragoza,Premium,2022-10-31
+144,Pedro,Fernández,pedro.fernández144@email.com,Sevilla,Premium,2022-02-14
+145,Pedro,Sánchez,pedro.sánchez145@email.com,Sevilla,Premium,2022-10-19
+146,Isabel,Pérez,isabel.pérez146@email.com,Málaga,Regular,2022-06-16
+147,Carlos,Sánchez,carlos.sánchez147@email.com,Sevilla,Regular,2022-05-13
+148,Laura,Rodríguez,laura.rodríguez148@email.com,Las Palmas,Premium,2022-05-22
+149,Antonio,García,antonio.garcía149@email.com,Palma,Premium,2022-02-13
+150,Ana,Pérez,ana.pérez150@email.com,Murcia,Regular,2022-05-04
+151,Carmen,Sánchez,carmen.sánchez151@email.com,Murcia,Regular,2022-01-09
+152,María,Rodríguez,maría.rodríguez152@email.com,Sevilla,Regular,2022-05-05
+153,Pedro,Torres,pedro.torres153@email.com,Málaga,Regular,2022-09-29
+154,Laura,Pérez,laura.pérez154@email.com,Palma,Regular,2022-12-26
+155,Sofía,Rodríguez,sofía.rodríguez155@email.com,Bilbao,Regular,2022-03-03
+156,Carmen,González,carmen.gonzález156@email.com,Málaga,Regular,2022-10-02
+157,Carmen,Martínez,carmen.martínez157@email.com,Sevilla,Regular,2022-09-05
+158,Pedro,Torres,pedro.torres158@email.com,Palma,Regular,2022-02-21
+159,Ana,Rodríguez,ana.rodríguez159@email.com,Sevilla,Regular,2022-06-04
+160,Juan,Ramírez,juan.ramírez160@email.com,Valencia,Regular,2022-01-28
+161,Antonio,Rodríguez,antonio.rodríguez161@email.com,Valencia,Regular,2022-09-09
+162,María,García,maría.garcía162@email.com,Las Palmas,Regular,2022-09-03
+163,Sofía,Fernández,sofía.fernández163@email.com,Valencia,VIP,2022-05-10
+164,Sofía,López,sofía.lópez164@email.com,Barcelona,Regular,2022-02-07
+165,Isabel,García,isabel.garcía165@email.com,Valencia,Regular,2022-10-16
+166,Pedro,López,pedro.lópez166@email.com,Sevilla,Regular,2022-08-02
+167,Isabel,Torres,isabel.torres167@email.com,Las Palmas,Regular,2022-09-25
+168,Miguel,Sánchez,miguel.sánchez168@email.com,Murcia,Regular,2022-10-29
+169,Miguel,Rodríguez,miguel.rodríguez169@email.com,Las Palmas,Regular,2022-11-09
+170,Carmen,López,carmen.lópez170@email.com,Sevilla,Regular,2022-05-16
+171,Francisco,López,francisco.lópez171@email.com,Valencia,Regular,2022-10-10
+172,María,Martínez,maría.martínez172@email.com,Madrid,Regular,2022-12-19
+173,Isabel,Sánchez,isabel.sánchez173@email.com,Bilbao,Regular,2022-05-28
+174,Carmen,Rodríguez,carmen.rodríguez174@email.com,Murcia,Regular,2022-04-30
+175,Pedro,Torres,pedro.torres175@email.com,Sevilla,Regular,2022-10-06
+176,Ana,Martínez,ana.martínez176@email.com,Bilbao,Premium,2022-02-06
+177,Juan,Martínez,juan.martínez177@email.com,Bilbao,Regular,2022-10-19
+178,Pedro,Sánchez,pedro.sánchez178@email.com,Barcelona,Regular,2022-06-05
+179,Carmen,Pérez,carmen.pérez179@email.com,Bilbao,Regular,2022-09-10
+180,Sofía,López,sofía.lópez180@email.com,Las Palmas,Regular,2022-08-10
+181,Carmen,Fernández,carmen.fernández181@email.com,Las Palmas,Regular,2022-02-16
+182,Ana,Torres,ana.torres182@email.com,Las Palmas,VIP,2022-12-11
+183,Pedro,Torres,pedro.torres183@email.com,Madrid,Premium,2022-03-31
+184,Sofía,Ramírez,sofía.ramírez184@email.com,Murcia,Premium,2022-04-03
+185,Isabel,Pérez,isabel.pérez185@email.com,Murcia,VIP,2022-08-29
+186,Laura,Pérez,laura.pérez186@email.com,Málaga,Regular,2022-02-23
+187,Carlos,Fernández,carlos.fernández187@email.com,Zaragoza,Regular,2022-05-28
+188,Francisco,Pérez,francisco.pérez188@email.com,Palma,Regular,2022-02-15
+189,Laura,Rodríguez,laura.rodríguez189@email.com,Málaga,Regular,2022-07-26
+190,Antonio,García,antonio.garcía190@email.com,Palma,Regular,2022-01-28
+191,Ana,Ramírez,ana.ramírez191@email.com,Málaga,Regular,2022-09-13
+192,Francisco,Sánchez,francisco.sánchez192@email.com,Madrid,Regular,2022-10-09
+193,Carlos,Rodríguez,carlos.rodríguez193@email.com,Murcia,Premium,2022-09-06
+194,María,García,maría.garcía194@email.com,Las Palmas,Premium,2022-12-30
+195,Carlos,Rodríguez,carlos.rodríguez195@email.com,Palma,Regular,2022-07-28
+196,María,González,maría.gonzález196@email.com,Barcelona,Regular,2022-03-02
+197,Francisco,Martínez,francisco.martínez197@email.com,Murcia,Premium,2022-05-30
+198,Antonio,Rodríguez,antonio.rodríguez198@email.com,Zaragoza,Premium,2022-08-30
+199,Ana,Sánchez,ana.sánchez199@email.com,Palma,Regular,2022-04-08
+200,Isabel,Ramírez,isabel.ramírez200@email.com,Valencia,Premium,2022-05-22
+201,Miguel,Fernández,miguel.fernández201@email.com,Palma,Regular,2022-01-02
+202,Pedro,Rodríguez,pedro.rodríguez202@email.com,Las Palmas,Regular,2022-12-04
+203,Sofía,Martínez,sofía.martínez203@email.com,Murcia,Regular,2022-06-26
+204,Laura,Ramírez,laura.ramírez204@email.com,Palma,Regular,2022-06-14
+205,Ana,González,ana.gonzález205@email.com,Las Palmas,Regular,2022-07-30
+206,Juan,Fernández,juan.fernández206@email.com,Murcia,Premium,2022-07-15
+207,Miguel,Martínez,miguel.martínez207@email.com,Murcia,VIP,2022-03-06
+208,Antonio,Torres,antonio.torres208@email.com,Málaga,Premium,2022-08-14
+209,María,Ramírez,maría.ramírez209@email.com,Murcia,Regular,2022-03-15
+210,Miguel,Martínez,miguel.martínez210@email.com,Barcelona,Regular,2022-05-16
+211,Laura,Torres,laura.torres211@email.com,Zaragoza,Regular,2022-06-18
+212,Francisco,Ramírez,francisco.ramírez212@email.com,Zaragoza,VIP,2022-11-17
+213,Carmen,Sánchez,carmen.sánchez213@email.com,Palma,Regular,2022-02-05
+214,Ana,Rodríguez,ana.rodríguez214@email.com,Sevilla,Premium,2022-08-11
+215,María,López,maría.lópez215@email.com,Murcia,Regular,2022-06-03
+216,Juan,García,juan.garcía216@email.com,Málaga,Premium,2022-05-31
+217,Laura,Fernández,laura.fernández217@email.com,Zaragoza,Regular,2022-09-29
+218,Miguel,Torres,miguel.torres218@email.com,Valencia,Regular,2022-02-10
+219,Isabel,Pérez,isabel.pérez219@email.com,Las Palmas,Regular,2022-09-12
+220,Isabel,Martínez,isabel.martínez220@email.com,Sevilla,Regular,2022-05-11
+221,Sofía,Rodríguez,sofía.rodríguez221@email.com,Madrid,Premium,2022-08-27
+222,Pedro,Ramírez,pedro.ramírez222@email.com,Valencia,Regular,2022-06-26
+223,Isabel,Rodríguez,isabel.rodríguez223@email.com,Zaragoza,Regular,2022-08-22
+224,Pedro,González,pedro.gonzález224@email.com,Zaragoza,Premium,2022-02-24
+225,Ana,Pérez,ana.pérez225@email.com,Las Palmas,Regular,2022-06-01
+226,Carmen,Rodríguez,carmen.rodríguez226@email.com,Madrid,VIP,2022-12-04
+227,Miguel,Rodríguez,miguel.rodríguez227@email.com,Madrid,Regular,2022-12-18
+228,Carmen,García,carmen.garcía228@email.com,Las Palmas,Premium,2022-05-27
+229,Ana,Torres,ana.torres229@email.com,Málaga,Regular,2022-04-08
+230,Isabel,Rodríguez,isabel.rodríguez230@email.com,Valencia,Regular,2022-11-18
+231,Francisco,García,francisco.garcía231@email.com,Bilbao,Premium,2022-01-18
+232,Isabel,Fernández,isabel.fernández232@email.com,Valencia,Regular,2022-06-01
+233,Laura,Pérez,laura.pérez233@email.com,Valencia,Regular,2022-10-04
+234,Laura,Ramírez,laura.ramírez234@email.com,Palma,Premium,2022-03-26
+235,Pedro,Sánchez,pedro.sánchez235@email.com,Bilbao,Premium,2022-06-23
+236,María,Sánchez,maría.sánchez236@email.com,Barcelona,Regular,2022-04-26
+237,Francisco,Pérez,francisco.pérez237@email.com,Palma,Regular,2022-07-22
+238,Juan,Rodríguez,juan.rodríguez238@email.com,Palma,Regular,2022-07-08
+239,Francisco,Rodríguez,francisco.rodríguez239@email.com,Las Palmas,Regular,2022-11-23
+240,Laura,López,laura.lópez240@email.com,Sevilla,Regular,2022-11-14
+241,Antonio,Fernández,antonio.fernández241@email.com,Las Palmas,Regular,2022-02-02
+242,Francisco,Sánchez,francisco.sánchez242@email.com,Bilbao,Regular,2022-03-01
+243,Carlos,García,carlos.garcía243@email.com,Madrid,Regular,2022-09-10
+244,María,López,maría.lópez244@email.com,Sevilla,Premium,2022-03-11
+245,Miguel,Sánchez,miguel.sánchez245@email.com,Málaga,Regular,2022-12-23
+246,Antonio,Pérez,antonio.pérez246@email.com,Las Palmas,Premium,2022-03-21
+247,Miguel,López,miguel.lópez247@email.com,Murcia,Regular,2022-05-24
+248,Juan,Fernández,juan.fernández248@email.com,Sevilla,Regular,2022-05-01
+249,Laura,López,laura.lópez249@email.com,Málaga,Regular,2022-11-27
+250,Laura,García,laura.garcía250@email.com,Zaragoza,Regular,2022-03-04
+251,Sofía,López,sofía.lópez251@email.com,Sevilla,Regular,2022-11-02
+252,Juan,García,juan.garcía252@email.com,Málaga,Regular,2022-03-06
+253,Isabel,González,isabel.gonzález253@email.com,Barcelona,Premium,2022-10-11
+254,Ana,Torres,ana.torres254@email.com,Sevilla,Premium,2022-04-30
+255,Laura,Martínez,laura.martínez255@email.com,Las Palmas,Regular,2022-03-16
+256,Carlos,Ramírez,carlos.ramírez256@email.com,Bilbao,Premium,2022-02-26
+257,Francisco,García,francisco.garcía257@email.com,Valencia,Regular,2022-05-02
+258,Isabel,Fernández,isabel.fernández258@email.com,Madrid,Regular,2022-01-27
+259,Carlos,Pérez,carlos.pérez259@email.com,Palma,Regular,2022-02-02
+260,Sofía,Sánchez,sofía.sánchez260@email.com,Málaga,Regular,2022-02-25
+261,Sofía,Ramírez,sofía.ramírez261@email.com,Sevilla,Premium,2022-01-23
+262,Carmen,Ramírez,carmen.ramírez262@email.com,Bilbao,Regular,2022-01-16
+263,Juan,Sánchez,juan.sánchez263@email.com,Zaragoza,Regular,2022-02-25
+264,Sofía,Sánchez,sofía.sánchez264@email.com,Barcelona,Premium,2022-06-14
+265,Isabel,Martínez,isabel.martínez265@email.com,Barcelona,Regular,2022-11-16
+266,Francisco,Torres,francisco.torres266@email.com,Palma,Premium,2022-07-15
+267,Isabel,Ramírez,isabel.ramírez267@email.com,Bilbao,Regular,2022-11-06
+268,Miguel,López,miguel.lópez268@email.com,Barcelona,Premium,2022-11-30
+269,Antonio,González,antonio.gonzález269@email.com,Zaragoza,Regular,2022-04-27
+270,Miguel,Fernández,miguel.fernández270@email.com,Murcia,Regular,2022-02-18
+271,Laura,Pérez,laura.pérez271@email.com,Málaga,Regular,2022-07-11
+272,Carlos,Sánchez,carlos.sánchez272@email.com,Barcelona,Regular,2022-02-13
+273,María,Pérez,maría.pérez273@email.com,Barcelona,Premium,2022-07-10
+274,Carlos,Ramírez,carlos.ramírez274@email.com,Madrid,Regular,2022-10-15
+275,Antonio,Fernández,antonio.fernández275@email.com,Barcelona,Regular,2022-12-07
+276,Miguel,García,miguel.garcía276@email.com,Bilbao,Regular,2022-06-30
+277,María,Torres,maría.torres277@email.com,Palma,Regular,2022-12-03
+278,Sofía,González,sofía.gonzález278@email.com,Barcelona,Regular,2022-10-12
+279,Laura,López,laura.lópez279@email.com,Bilbao,Regular,2022-08-08
+280,Antonio,Torres,antonio.torres280@email.com,Las Palmas,Regular,2022-10-13
+281,Juan,Torres,juan.torres281@email.com,Bilbao,Regular,2022-05-20
+282,Carmen,Rodríguez,carmen.rodríguez282@email.com,Málaga,Regular,2022-04-03
+283,Carlos,Torres,carlos.torres283@email.com,Zaragoza,Regular,2022-11-21
+284,Juan,López,juan.lópez284@email.com,Palma,Regular,2022-08-03
+285,Sofía,Fernández,sofía.fernández285@email.com,Valencia,Regular,2022-06-16
+286,Isabel,Torres,isabel.torres286@email.com,Barcelona,Premium,2022-03-21
+287,Carlos,Torres,carlos.torres287@email.com,Madrid,Regular,2022-05-20
+288,Sofía,Pérez,sofía.pérez288@email.com,Murcia,Regular,2022-08-01
+289,Pedro,González,pedro.gonzález289@email.com,Palma,Regular,2022-08-09
+290,María,Rodríguez,maría.rodríguez290@email.com,Las Palmas,Regular,2022-12-08
+291,Pedro,García,pedro.garcía291@email.com,Sevilla,Regular,2022-11-03
+292,Juan,García,juan.garcía292@email.com,Sevilla,Regular,2022-04-19
+293,Carlos,Rodríguez,carlos.rodríguez293@email.com,Bilbao,Regular,2022-01-04
+294,Sofía,Pérez,sofía.pérez294@email.com,Valencia,Regular,2022-09-30
+295,Carmen,González,carmen.gonzález295@email.com,Palma,Regular,2022-12-09
+296,Laura,López,laura.lópez296@email.com,Zaragoza,Premium,2022-01-22
+297,Miguel,García,miguel.garcía297@email.com,Murcia,Premium,2022-06-10
+298,Isabel,Pérez,isabel.pérez298@email.com,Las Palmas,Regular,2022-11-24
+299,Miguel,Rodríguez,miguel.rodríguez299@email.com,Barcelona,Regular,2022-06-16
+300,Carlos,Torres,carlos.torres300@email.com,Murcia,Premium,2022-07-05
+301,María,Pérez,maría.pérez301@email.com,Barcelona,Regular,2022-10-29
+302,Miguel,Ramírez,miguel.ramírez302@email.com,Barcelona,Regular,2022-06-08
+303,Carmen,Fernández,carmen.fernández303@email.com,Sevilla,Regular,2022-03-28
+304,María,Ramírez,maría.ramírez304@email.com,Barcelona,Regular,2022-04-10
+305,Laura,Fernández,laura.fernández305@email.com,Valencia,Regular,2022-03-16
+306,Pedro,González,pedro.gonzález306@email.com,Valencia,Regular,2022-12-02
+307,María,Martínez,maría.martínez307@email.com,Murcia,Regular,2022-10-16
+308,Isabel,Sánchez,isabel.sánchez308@email.com,Las Palmas,Regular,2022-11-16
+309,Laura,Fernández,laura.fernández309@email.com,Valencia,Regular,2022-08-29
+310,Sofía,Rodríguez,sofía.rodríguez310@email.com,Bilbao,Regular,2022-06-30
+311,Antonio,López,antonio.lópez311@email.com,Bilbao,Regular,2022-01-20
+312,Juan,Fernández,juan.fernández312@email.com,Bilbao,Regular,2022-02-16
+313,Isabel,Torres,isabel.torres313@email.com,Palma,Regular,2022-10-25
+314,Antonio,García,antonio.garcía314@email.com,Murcia,Premium,2022-10-20
+315,Francisco,González,francisco.gonzález315@email.com,Málaga,Regular,2022-09-14
+316,Carlos,García,carlos.garcía316@email.com,Murcia,Regular,2022-06-25
+317,Carmen,López,carmen.lópez317@email.com,Palma,Regular,2022-01-21
+318,Ana,Sánchez,ana.sánchez318@email.com,Murcia,Regular,2022-11-09
+319,Carlos,Fernández,carlos.fernández319@email.com,Málaga,Premium,2022-07-18
+320,Miguel,Fernández,miguel.fernández320@email.com,Las Palmas,Regular,2022-11-20
+321,Francisco,Fernández,francisco.fernández321@email.com,Barcelona,Regular,2022-10-13
+322,Francisco,Pérez,francisco.pérez322@email.com,Bilbao,Regular,2022-12-03
+323,Isabel,Martínez,isabel.martínez323@email.com,Málaga,Regular,2022-12-06
+324,Carlos,Fernández,carlos.fernández324@email.com,Bilbao,VIP,2022-12-24
+325,Francisco,Pérez,francisco.pérez325@email.com,Valencia,Regular,2022-02-13
+326,Pedro,Ramírez,pedro.ramírez326@email.com,Zaragoza,Regular,2022-06-18
+327,Carlos,Ramírez,carlos.ramírez327@email.com,Barcelona,Regular,2022-08-05
+328,Antonio,Fernández,antonio.fernández328@email.com,Madrid,Regular,2022-04-03
+329,Ana,Fernández,ana.fernández329@email.com,Murcia,Regular,2022-03-12
+330,Carlos,López,carlos.lópez330@email.com,Bilbao,Premium,2022-02-21
+331,Antonio,Ramírez,antonio.ramírez331@email.com,Palma,Regular,2022-06-22
+332,Isabel,Martínez,isabel.martínez332@email.com,Las Palmas,Regular,2022-03-25
+333,Carlos,Torres,carlos.torres333@email.com,Valencia,Premium,2022-01-23
+334,Miguel,Fernández,miguel.fernández334@email.com,Sevilla,VIP,2022-11-09
+335,Pedro,Sánchez,pedro.sánchez335@email.com,Sevilla,Regular,2022-06-08
+336,Sofía,González,sofía.gonzález336@email.com,Málaga,Regular,2022-10-20
+337,Sofía,Sánchez,sofía.sánchez337@email.com,Bilbao,Premium,2022-09-15
+338,Antonio,Pérez,antonio.pérez338@email.com,Valencia,Premium,2022-11-06
+339,Carlos,Rodríguez,carlos.rodríguez339@email.com,Madrid,Regular,2022-07-10
+340,Antonio,López,antonio.lópez340@email.com,Palma,Premium,2022-05-26
+341,María,Martínez,maría.martínez341@email.com,Bilbao,Regular,2022-09-20
+342,Carlos,Pérez,carlos.pérez342@email.com,Barcelona,Premium,2022-04-24
+343,Sofía,Fernández,sofía.fernández343@email.com,Madrid,Regular,2022-07-22
+344,Antonio,Fernández,antonio.fernández344@email.com,Sevilla,Regular,2022-02-11
+345,Laura,González,laura.gonzález345@email.com,Madrid,Regular,2022-02-20
+346,Carmen,Fernández,carmen.fernández346@email.com,Valencia,Regular,2022-05-27
+347,Sofía,Martínez,sofía.martínez347@email.com,Murcia,Regular,2022-01-03
+348,María,García,maría.garcía348@email.com,Bilbao,Regular,2022-03-18
+349,Antonio,Torres,antonio.torres349@email.com,Palma,Regular,2022-05-28
+350,Ana,Rodríguez,ana.rodríguez350@email.com,Barcelona,Regular,2022-08-03
+351,Francisco,Torres,francisco.torres351@email.com,Murcia,Regular,2022-09-13
+352,Isabel,Ramírez,isabel.ramírez352@email.com,Madrid,Regular,2022-10-22
+353,Ana,Martínez,ana.martínez353@email.com,Bilbao,Regular,2022-11-11
+354,Laura,González,laura.gonzález354@email.com,Las Palmas,Regular,2022-12-07
+355,Francisco,López,francisco.lópez355@email.com,Palma,VIP,2022-02-04
+356,Antonio,Ramírez,antonio.ramírez356@email.com,Palma,Premium,2022-09-17
+357,Antonio,García,antonio.garcía357@email.com,Zaragoza,Premium,2022-01-23
+358,Francisco,Pérez,francisco.pérez358@email.com,Málaga,Regular,2022-01-09
+359,Laura,López,laura.lópez359@email.com,Málaga,Regular,2022-12-03
+360,Francisco,López,francisco.lópez360@email.com,Las Palmas,Premium,2022-06-20
+361,Carlos,García,carlos.garcía361@email.com,Málaga,Regular,2022-11-26
+362,Carlos,Sánchez,carlos.sánchez362@email.com,Murcia,Regular,2022-03-11
+363,María,Sánchez,maría.sánchez363@email.com,Madrid,Regular,2022-01-23
+364,Ana,García,ana.garcía364@email.com,Málaga,Premium,2022-09-21
+365,Miguel,Ramírez,miguel.ramírez365@email.com,Murcia,Regular,2022-11-28
+366,Ana,Rodríguez,ana.rodríguez366@email.com,Málaga,Premium,2022-01-25
+367,Francisco,Fernández,francisco.fernández367@email.com,Bilbao,Regular,2022-07-08
+368,Miguel,Pérez,miguel.pérez368@email.com,Murcia,Premium,2022-07-17
+369,Laura,Martínez,laura.martínez369@email.com,Murcia,Regular,2022-07-08
+370,Antonio,Rodríguez,antonio.rodríguez370@email.com,Barcelona,Premium,2022-02-10
+371,Miguel,Torres,miguel.torres371@email.com,Valencia,Regular,2022-06-14
+372,María,López,maría.lópez372@email.com,Málaga,Regular,2022-06-06
+373,Sofía,Torres,sofía.torres373@email.com,Zaragoza,Regular,2022-08-16
+374,Laura,Sánchez,laura.sánchez374@email.com,Madrid,Premium,2022-06-30
+375,Isabel,Pérez,isabel.pérez375@email.com,Bilbao,Regular,2022-01-30
+376,María,Pérez,maría.pérez376@email.com,Málaga,Regular,2022-12-14
+377,Carlos,García,carlos.garcía377@email.com,Valencia,Premium,2022-12-14
+378,Sofía,García,sofía.garcía378@email.com,Valencia,Regular,2022-11-27
+379,Laura,Fernández,laura.fernández379@email.com,Zaragoza,Premium,2022-01-17
+380,Isabel,Martínez,isabel.martínez380@email.com,Murcia,Premium,2022-07-10
+381,Sofía,López,sofía.lópez381@email.com,Las Palmas,Regular,2022-07-07
+382,Miguel,Fernández,miguel.fernández382@email.com,Bilbao,Regular,2022-02-28
+383,Juan,Martínez,juan.martínez383@email.com,Murcia,Regular,2022-10-15
+384,María,Rodríguez,maría.rodríguez384@email.com,Bilbao,Premium,2022-04-20
+385,Isabel,Rodríguez,isabel.rodríguez385@email.com,Murcia,Regular,2022-03-11
+386,María,Sánchez,maría.sánchez386@email.com,Valencia,Premium,2022-08-16
+387,María,Fernández,maría.fernández387@email.com,Málaga,Premium,2022-10-09
+388,Antonio,Rodríguez,antonio.rodríguez388@email.com,Bilbao,Premium,2022-12-31
+389,Carmen,Martínez,carmen.martínez389@email.com,Málaga,Regular,2022-03-04
+390,Ana,Martínez,ana.martínez390@email.com,Sevilla,Premium,2022-01-14
+391,Laura,Ramírez,laura.ramírez391@email.com,Las Palmas,Regular,2022-10-10
+392,Carlos,Torres,carlos.torres392@email.com,Barcelona,Regular,2022-07-23
+393,Carmen,Sánchez,carmen.sánchez393@email.com,Palma,Regular,2022-07-29
+394,Isabel,López,isabel.lópez394@email.com,Valencia,VIP,2022-11-25
+395,María,Sánchez,maría.sánchez395@email.com,Murcia,Regular,2022-06-26
+396,Carlos,Ramírez,carlos.ramírez396@email.com,Las Palmas,Regular,2022-03-08
+397,Miguel,Ramírez,miguel.ramírez397@email.com,Madrid,Premium,2022-09-23
+398,Carlos,Rodríguez,carlos.rodríguez398@email.com,Valencia,Regular,2022-12-30
+399,Ana,Fernández,ana.fernández399@email.com,Palma,Premium,2022-02-10
+400,Pedro,González,pedro.gonzález400@email.com,Palma,Regular,2022-11-17
+401,Pedro,Torres,pedro.torres401@email.com,Palma,Regular,2022-11-25
+402,Carlos,Torres,carlos.torres402@email.com,Las Palmas,Regular,2022-12-04
+403,Isabel,Torres,isabel.torres403@email.com,Málaga,Premium,2022-10-16
+404,Juan,García,juan.garcía404@email.com,Barcelona,Regular,2022-11-25
+405,Isabel,Rodríguez,isabel.rodríguez405@email.com,Sevilla,Premium,2022-08-02
+406,Isabel,García,isabel.garcía406@email.com,Murcia,Premium,2022-10-07
+407,Pedro,Rodríguez,pedro.rodríguez407@email.com,Murcia,Regular,2022-12-17
+408,Miguel,Rodríguez,miguel.rodríguez408@email.com,Murcia,Regular,2022-01-31
+409,Carlos,Sánchez,carlos.sánchez409@email.com,Zaragoza,Regular,2022-04-15
+410,Laura,Torres,laura.torres410@email.com,Valencia,Regular,2022-06-13
+411,Carmen,Fernández,carmen.fernández411@email.com,Zaragoza,Regular,2022-07-09
+412,Antonio,Ramírez,antonio.ramírez412@email.com,Barcelona,Regular,2022-08-27
+413,María,Rodríguez,maría.rodríguez413@email.com,Murcia,Regular,2022-02-19
+414,Juan,Rodríguez,juan.rodríguez414@email.com,Zaragoza,Premium,2022-08-03
+415,Ana,Martínez,ana.martínez415@email.com,Málaga,Premium,2022-06-10
+416,Ana,Martínez,ana.martínez416@email.com,Murcia,VIP,2022-08-28
+417,Sofía,Rodríguez,sofía.rodríguez417@email.com,Murcia,Regular,2022-07-21
+418,Antonio,Sánchez,antonio.sánchez418@email.com,Sevilla,Regular,2022-06-30
+419,Juan,García,juan.garcía419@email.com,Bilbao,Regular,2022-12-01
+420,Francisco,Sánchez,francisco.sánchez420@email.com,Bilbao,Regular,2022-02-25
+421,Miguel,Martínez,miguel.martínez421@email.com,Bilbao,Premium,2022-07-26
+422,Laura,García,laura.garcía422@email.com,Zaragoza,Regular,2022-10-15
+423,Ana,Fernández,ana.fernández423@email.com,Palma,Regular,2022-07-17
+424,Antonio,Sánchez,antonio.sánchez424@email.com,Palma,Regular,2022-11-16
+425,Francisco,Torres,francisco.torres425@email.com,Barcelona,Regular,2022-02-19
+426,Miguel,Fernández,miguel.fernández426@email.com,Málaga,Regular,2022-07-07
+427,Carlos,González,carlos.gonzález427@email.com,Las Palmas,Regular,2022-09-14
+428,Juan,García,juan.garcía428@email.com,Madrid,Regular,2022-06-20
+429,Sofía,Ramírez,sofía.ramírez429@email.com,Murcia,Regular,2022-09-21
+430,Carlos,Fernández,carlos.fernández430@email.com,Las Palmas,Regular,2022-07-21
+431,Isabel,Rodríguez,isabel.rodríguez431@email.com,Las Palmas,Regular,2022-09-18
+432,Antonio,Sánchez,antonio.sánchez432@email.com,Las Palmas,Regular,2022-01-09
+433,Laura,Fernández,laura.fernández433@email.com,Barcelona,VIP,2022-10-26
+434,Pedro,García,pedro.garcía434@email.com,Las Palmas,Regular,2022-12-02
+435,Isabel,Torres,isabel.torres435@email.com,Sevilla,Premium,2022-10-26
+436,Sofía,Martínez,sofía.martínez436@email.com,Palma,Regular,2022-11-14
+437,Miguel,Martínez,miguel.martínez437@email.com,Sevilla,Regular,2022-12-25
+438,María,González,maría.gonzález438@email.com,Madrid,Regular,2022-08-03
+439,Carlos,Pérez,carlos.pérez439@email.com,Sevilla,Regular,2022-11-10
+440,Sofía,García,sofía.garcía440@email.com,Valencia,Regular,2022-10-15
+441,Laura,Sánchez,laura.sánchez441@email.com,Palma,Regular,2022-03-30
+442,Sofía,Ramírez,sofía.ramírez442@email.com,Málaga,Regular,2022-12-13
+443,Carmen,Rodríguez,carmen.rodríguez443@email.com,Las Palmas,Regular,2022-05-07
+444,Pedro,Ramírez,pedro.ramírez444@email.com,Bilbao,Regular,2022-06-02
+445,Pedro,González,pedro.gonzález445@email.com,Murcia,Regular,2022-06-28
+446,Antonio,Rodríguez,antonio.rodríguez446@email.com,Bilbao,Regular,2022-12-13
+447,Antonio,Pérez,antonio.pérez447@email.com,Zaragoza,Premium,2022-03-16
+448,Pedro,García,pedro.garcía448@email.com,Bilbao,VIP,2022-02-10
+449,Laura,Sánchez,laura.sánchez449@email.com,Bilbao,Premium,2022-04-20
+450,Ana,Ramírez,ana.ramírez450@email.com,Bilbao,Premium,2022-12-23
+451,Pedro,Martínez,pedro.martínez451@email.com,Barcelona,Regular,2022-10-28
+452,Ana,González,ana.gonzález452@email.com,Madrid,Regular,2022-09-29
+453,Ana,González,ana.gonzález453@email.com,Madrid,Regular,2022-06-19
+454,Carmen,Sánchez,carmen.sánchez454@email.com,Barcelona,Regular,2022-03-12
+455,Juan,Ramírez,juan.ramírez455@email.com,Valencia,Regular,2022-09-01
+456,Sofía,González,sofía.gonzález456@email.com,Bilbao,Regular,2022-11-27
+457,Juan,López,juan.lópez457@email.com,Las Palmas,Regular,2022-01-20
+458,Carlos,Pérez,carlos.pérez458@email.com,Valencia,Premium,2022-01-19
+459,Miguel,Sánchez,miguel.sánchez459@email.com,Valencia,Premium,2022-05-29
+460,Juan,García,juan.garcía460@email.com,Bilbao,Regular,2022-02-24
+461,Laura,Rodríguez,laura.rodríguez461@email.com,Murcia,VIP,2022-10-06
+462,Antonio,Sánchez,antonio.sánchez462@email.com,Valencia,Premium,2022-08-28
+463,Pedro,González,pedro.gonzález463@email.com,Barcelona,Regular,2022-08-23
+464,Francisco,Rodríguez,francisco.rodríguez464@email.com,Valencia,Regular,2022-06-22
+465,Pedro,Torres,pedro.torres465@email.com,Sevilla,Regular,2022-11-24
+466,Miguel,Pérez,miguel.pérez466@email.com,Palma,Regular,2022-07-25
+467,Francisco,López,francisco.lópez467@email.com,Valencia,VIP,2022-09-02
+468,Laura,González,laura.gonzález468@email.com,Madrid,Regular,2022-05-01
+469,Sofía,Rodríguez,sofía.rodríguez469@email.com,Málaga,Regular,2022-10-21
+470,Juan,Rodríguez,juan.rodríguez470@email.com,Málaga,Regular,2022-02-01
+471,Francisco,López,francisco.lópez471@email.com,Murcia,Regular,2022-07-27
+472,Francisco,Ramírez,francisco.ramírez472@email.com,Bilbao,Regular,2022-11-24
+473,Pedro,Fernández,pedro.fernández473@email.com,Las Palmas,Regular,2022-03-10
+474,Sofía,Martínez,sofía.martínez474@email.com,Murcia,Premium,2022-11-07
+475,Laura,Pérez,laura.pérez475@email.com,Palma,Premium,2022-10-03
+476,Francisco,González,francisco.gonzález476@email.com,Sevilla,Regular,2022-11-02
+477,María,Ramírez,maría.ramírez477@email.com,Murcia,Regular,2022-07-05
+478,María,Torres,maría.torres478@email.com,Barcelona,Regular,2022-10-08
+479,Antonio,González,antonio.gonzález479@email.com,Las Palmas,Regular,2022-03-26
+480,Laura,Ramírez,laura.ramírez480@email.com,Murcia,Regular,2022-04-16
+481,Carmen,Torres,carmen.torres481@email.com,Murcia,Regular,2022-09-19
+482,Sofía,García,sofía.garcía482@email.com,Murcia,Regular,2022-08-01
+483,Sofía,Torres,sofía.torres483@email.com,Madrid,Regular,2022-12-11
+484,Pedro,García,pedro.garcía484@email.com,Zaragoza,Regular,2022-01-02
+485,Carmen,González,carmen.gonzález485@email.com,Las Palmas,Regular,2022-08-05
+486,Laura,López,laura.lópez486@email.com,Palma,VIP,2022-02-05
+487,Sofía,García,sofía.garcía487@email.com,Bilbao,Regular,2022-03-11
+488,Francisco,Pérez,francisco.pérez488@email.com,Málaga,VIP,2022-07-15
+489,Sofía,Pérez,sofía.pérez489@email.com,Zaragoza,Regular,2022-12-05
+490,Antonio,Martínez,antonio.martínez490@email.com,Málaga,Regular,2022-10-03
+491,Miguel,Ramírez,miguel.ramírez491@email.com,Valencia,Premium,2022-04-25
+492,Juan,García,juan.garcía492@email.com,Bilbao,Regular,2022-10-06
+493,Miguel,Ramírez,miguel.ramírez493@email.com,Zaragoza,Premium,2022-05-07
+494,Sofía,Fernández,sofía.fernández494@email.com,Valencia,Regular,2022-02-27
+495,Juan,Pérez,juan.pérez495@email.com,Las Palmas,Premium,2022-01-09
+496,Ana,González,ana.gonzález496@email.com,Barcelona,Regular,2022-01-18
+497,Sofía,Torres,sofía.torres497@email.com,Madrid,Regular,2022-01-23
+498,Miguel,Sánchez,miguel.sánchez498@email.com,Sevilla,Regular,2022-01-29
+499,Carlos,Ramírez,carlos.ramírez499@email.com,Bilbao,Regular,2022-10-22
+500,Laura,Torres,laura.torres500@email.com,Las Palmas,Premium,2022-06-14
